@@ -1,8 +1,5 @@
 <h3 align="left">Welcome to my GitHub profile!</h3>
 <p align="left">Here, you’ll find a genuine passion for learning. I use this space to document my journey through university courses, build personal projects and contribute to the advancement of science.</p>
-
-###
-
 <br clear="both">
 
 <div align="center">
@@ -29,15 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rielly-luiza-370282332?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
