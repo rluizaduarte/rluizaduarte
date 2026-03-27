@@ -1,10 +1,18 @@
-<h2 align="center">Welcome to my GitHub profile!</h2>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
 ###
 
 <br clear="both">
 
 <p align="center">Here, you’ll find a genuine passion for learning. I use this space to document my journey through university courses, build personal projects and contribute to the advancement of science.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
+</div>
 
 ###
 
@@ -32,14 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg" height="40" alt="raspberrypi logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
 </div>
 
 ###
