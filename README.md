@@ -1,14 +1,11 @@
-<h3 align="center">Welcome to my GitHub profile!</h3>
-<p align="center">Here you’ll find a genuine passion for learning. I use this space to document my journey through university courses, build personal projects and contribute to the advancement of science.</p>
-<div align="center">
+<h3 align="left">Welcome to my GitHub profile!</h3>
+<p align="left">Here you’ll find a genuine passion for learning. I use this space to document my journey through university courses, build personal projects and contribute to the advancement of science.</p>
+<div align="left">
   <img height="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
 </div>
 
-###
-
-<h3 align="center">Skills</h3>
-
-<div align="center">
+<h3 align="left">Skills</h3>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
@@ -32,10 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
 </div>
 
-###
-
-<h3 align="center">Reach me</h3>
-<div align="center">
+<h3 align="left">Reach me</h3>
+<div align="left">
   <a href="https://www.linkedin.com/in/rielly-luiza-370282332?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
