@@ -7,7 +7,6 @@
 ###
 
 <h3 align="center">Skills</h3>
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -36,8 +35,6 @@
 ###
 
 <h3 align="center">Reach me</h3>
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rielly-luiza-370282332?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
