@@ -1,7 +1,7 @@
 <h3 align="left">Welcome to my GitHub profile!</h3>
 <p align="left">Here you’ll find a genuine passion for learning. I use this space to document my journey through university courses, build personal projects and contribute to the advancement of science.</p>
 <div align="left">
-  <img height="450" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"  />
+  <img height="450" src="https://x.com/i/status/2039935185224126789"  />
 </div>
 
 <h3 align="left">Skills</h3>
